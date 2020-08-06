@@ -1,6 +1,6 @@
 def display_board
-  print "   |   "
-  print "   |   |  "
-  print "-----------"
-  print "   |   |   \n"
+  puts "   |   "
+  puts "   |   |  "
+  puts "-----------"
+  puts "   |   |   \n"
 end
